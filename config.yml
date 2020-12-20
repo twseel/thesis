@@ -1,17 +1,17 @@
 twitter:
   api:
     pause: 5
-    app:
-      key: *******
-      secret: *******
-      token: *******
-      token_secret: *******
+    app: semevalrecrpracmastheuniantdta
+      key: 7tQFXiAwZWaC70tZ9GwuqDHqY
+      secret: OCHVochy1pa9eq51JnCfuw7jSB9QHNWMsN6pEO05wzLra4v1Pu
+      token: 1340431405906604033-tVXi9GfIknvoxJoMbd0oEPnqjFXXSJ
+      token_secret: CtkdFMsqnggAsuOpoCkICf2BJm3GTR8UIgG6zADMutac7
 stocktwits:
   api:
     pause: 9
     app:
-      key: *******
-      secret: *******
+      key: 78742862a5ac9b3a
+      secret: a5bd628ddee2645ad81273a219c9a35adcb3461b
       code: *******
       token: *******
 
